@@ -19,7 +19,7 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 
 <br />
 
-I'm is Bdrxzar, i'm Developer Akwardwar
+### My Bio
 - ☇ I'm working on JavaScript, HTML/CSS/MD
 - I Also Have [**INDONESIA DISCORD SERVER**](https://dsc.gg/syt)
 - [Subscribe to me!](https://www.youtube.com/channel/UCC0EJHTO0itUgUFMT13rBbg?sub_confirmation=1)
