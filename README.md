@@ -1,5 +1,5 @@
 ## Hi There! 👋
-Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
+Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder <img src="https://imgur.com/VCWA5ud.gif" align="right"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Endternvl-ops-cyber" alt="sujal-ops-cyber" /> </p>
 
