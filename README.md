@@ -3,7 +3,7 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Endternvl-ops-cyber" alt="sujal-ops-cyber" /> </p>
 
-<img src="https://imgur.com/VCWA5ud.gif" align="middle"/>
+<img src="https://cdn.discordapp.com/attachments/811143476522909718/820279617717272596/standard_2.gif" align="middle"/>
 
 <a href="https://dsc.gg/syt">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
