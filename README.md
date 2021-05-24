@@ -25,6 +25,7 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 - ☇ I'm working on JavaScript, HTML/CSS/MD
 - I Also Have [**INDONESIA DISCORD SERVER**](https://dsc.gg/syt)
 - [Subscribe to me!](https://www.youtube.com/channel/UCC0EJHTO0itUgUFMT13rBbg?sub_confirmation=1)
+- Join Our [TEAM](https://discord.gg/9R7hZtbnyw)
 <br />
 
 <h2>🚀 Techs</h2>
