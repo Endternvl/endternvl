@@ -48,5 +48,5 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endternvl&show_icons=true&theme=tokyonight)](https://github.com/Endternvl)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Endternvl&repo=github-readme-stats)](https://github.com/Endternvl/endternvl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Endternvl&repo=github-readme-stats)](https://github.com/Endternvl/)
 
