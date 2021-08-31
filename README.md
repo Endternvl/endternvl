@@ -1,4 +1,4 @@
-## Hi There! 👋
+## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Endternvl-ops-cyber" alt="sujal-ops-cyber" /> </p>
@@ -28,7 +28,18 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 - Join Our [TEAM](https://discord.gg/9R7hZtbnyw)
 <br />
 
-<h2>🚀 Techs</h2>
+<h2>🚀 More Information</h2>
+
+<hr/>
+<p align="center">
+    <a href="https://github.com/Endternvl/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroDiscord&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+  </a> 
+  <a href="https://github.com/Endternvl/">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox" />
+  </a> 
+<br>
+
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-2e2e2e?style=flat-square&logo=github&logoColor=white" />
@@ -47,6 +58,4 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 ![Endternvl github stats](https://github-readme-stats.vercel.app/api?username=Endternvl&show_icons=true&theme=tokyonight)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endternvl&show_icons=true&theme=tokyonight)](https://github.com/Endternvl)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Endternvl&repo=github-readme-stats)](https://github.com/Endternvl/zAltmr)
 
