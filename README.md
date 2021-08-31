@@ -33,7 +33,7 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 <hr/>
 <p align="center">
     <a href="https://github.com/Endternvl/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroDiscord&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Endternvl&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
 <br>
 
 <p>
