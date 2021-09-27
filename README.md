@@ -37,7 +37,6 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 <br />
 <p align="center">
 <h2>🚀 Languages And Tools</h2>
-</p>
 <hr/>
 <p align="center">
     <a href="https://github.com/Endternvl/">
