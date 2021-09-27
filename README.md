@@ -35,9 +35,9 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 - [Subscribe to me!](https://www.youtube.com/channel/UCC0EJHTO0itUgUFMT13rBbg?sub_confirmation=1)
 - Join Our [TEAM](https://discord.gg/9R7hZtbnyw)
 <br />
-
+<p align="center">
 <h2>🚀 Languages And Tools</h2>
-
+</p>
 <hr/>
 <p align="center">
     <a href="https://github.com/Endternvl/">
@@ -51,13 +51,4 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=endternvl&show_icons=true&locale=en" alt="endternvl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=endternvl&" alt="endternvl" /></p>
-  <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-5d2b90?style=flat-square&logo=visual-studio&logoColor=white" />
-</p>
 <br>
-<h2>⚡ Endternvl's Github Stats</h2>
-
-![Endternvl github stats](https://github-readme-stats.vercel.app/api?username=Endternvl&show_icons=true&theme=tokyonight)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endternvl&show_icons=true&theme=tokyonight)](https://github.com/Endternvl)
-
