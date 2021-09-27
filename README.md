@@ -8,7 +8,7 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/skaryet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="skaryet" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xskaryet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xskaryet" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCC0EJHTO0itUgUFMT13rBbg?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xskaryet" height="30" width="40" /></a>
 </p>
 
 <img src="https://cdn.discordapp.com/attachments/811143476522909718/820279617717272596/standard_2.gif" align="middle"/>
@@ -17,24 +17,16 @@ Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
  <a href="https://github.com/Endternvl">
-  <img align="left" alt="Bdrxzar Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Skaryet's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
  <a href="https://instagram.com/myskaryt">
-  <img align="left" alt="Endternvl Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="IG AAAA" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
 
 ### Glad To See You Here! &nbsp;
 
-<br />
-
-### My Bio
-- ☇ I'm working on JavaScript, HTML/CSS/MD
-- My **[Support Server](https://discord.gg/Ty2pAmutR7)**
-- [Subscribe to me!](https://www.youtube.com/channel/UCC0EJHTO0itUgUFMT13rBbg?sub_confirmation=1)
-- Join Our [TEAM](https://discord.gg/9R7hZtbnyw)
-<br />
 <h2 align="center">⚡ Stats</h2>
 <hr/>
 <p align="center">
