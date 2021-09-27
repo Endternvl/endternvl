@@ -1,7 +1,9 @@
 ## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hello! I'm Endternvl (aka. Skaryetskys) I Love coding and yes im a junior coder
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Endternvl-ops-cyber" alt="sujal-ops-cyber" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Endternvl-ops-cyber" alt="skaryets-cyber" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Skaryey" alt="skaryey" /> </p>
 
 <img src="https://cdn.discordapp.com/attachments/811143476522909718/820279617717272596/standard_2.gif" align="middle"/>
 
